@@ -15,4 +15,3 @@ scripts:
 
 artifacts:
   - "**/*.apk"
-```
