@@ -2,7 +2,6 @@ workflows:
 android-workflow:
 name: Android Build
 
-```
 environment:
   java: 17
 
@@ -17,4 +16,3 @@ scripts:
 
 artifacts:
   - "**/*.apk"
-```
